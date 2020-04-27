@@ -1,10 +1,8 @@
 public class Jarak{
-    float JP;
+    int JP;
     int JS;
     int Skala;
     
-    public Jarak(){   
-}
     public void jarak(){
         if(Skala<=0){System.out.println("Angka yang anda masukkan salah");
         }
